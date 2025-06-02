@@ -5,3 +5,5 @@ Made a standardized heading with lowercase and no space.
 Arranged the columns in orders.
 Removed duplicate rows.
 Changed date into dd-mm-yyyy format.
+
+Sheet 1 cotains the raw data and Sheet 2 contains the cleaned data.
